@@ -4,5 +4,6 @@
 int _putchar(char a);
 
 /* Basic functions*/
+void print_alphabet(void);
 
 #endif 
