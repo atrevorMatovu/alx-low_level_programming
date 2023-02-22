@@ -1,1 +1,1 @@
-Project for debugging in C language
+A debugging project by ALX
