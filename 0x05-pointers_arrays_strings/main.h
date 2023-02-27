@@ -16,5 +16,6 @@ void print_array(int *a, int n);
 int _putchar(char c);
 int str_length(char *pointer);
 char *_strcpy(char *dest, char *src);
+int _atoi(char *s);
 
 #endif
