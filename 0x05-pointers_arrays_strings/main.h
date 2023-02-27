@@ -14,5 +14,6 @@ void puts_half(char *str);
 void print_array(int *a, int n);
 void print_array(int *a, int n);
 int _putchar(char c);
+int str_length(char *pointer);
 
 #endif
